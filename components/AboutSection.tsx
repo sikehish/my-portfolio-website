@@ -23,7 +23,7 @@ const AboutSection = () => {
             <br />
             <p>
             I&#39;m a tech enthusiast, who is adventurous not just in tech but outside of tech too. When I&#39;m not working or learning something, I do photography or speed-cubing or perhaps play a game of rocket league :P.
-              I&#39;m passionate about software development and architecture and I&#39;m always on the lookout to incorporate new technologies in the projects I build. Fascinated by tech all day, every day!I
+              I&#39;m passionate about software development and architecture and I&#39;m always on the lookout to incorporate new technologies in the projects I build. Fascinated by tech all day, every day!💪
             </p>
             <br />
           </div>
