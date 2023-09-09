@@ -3,7 +3,7 @@ import { Link } from "react-scroll/modules"
 import { HiArrowDown } from "react-icons/hi"
 
 const skills = [
- "HTML","CSS", "JavaScript","ReactJS", "ExpressJS", "Python", "Flask", "Django", "Java", "C", "C++", "Git", "Github", "Docker basics", "Rust basics"
+ "HTML","CSS", "JavaScript","ReactJS", "ExpressJS", "Python", "Flask", "Django", "Java", "C", "C++", "Git", "Github", "Docker", "Github Actions", "K8s basics", "AWS", "Azure Basics"
 ]
 
 const AboutSection = () => {
