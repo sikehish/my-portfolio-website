@@ -18,7 +18,7 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <p>
-              I&#39;m Hisham,a 2nd year CSE student from Mysuru,India.
+              I&#39;m Hisham,a 3rd year CSE student from Mysuru,India.
             </p>    
             <br />
             <p>
