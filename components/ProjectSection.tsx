@@ -24,7 +24,7 @@ const projects = [
     description:
       "A website to track attendance,CGPA and SGPA, built using reactjs,nodejs,express,mongoDB,css and a bit of tailwind",
     image: "/steadious.png",
-    github: "https://github.com/hqasmei/https://github.com/sikehish/steadious",
+    github: "https://github.com/sikehish/steadious",
   },
   {
     name: "precis.io",
